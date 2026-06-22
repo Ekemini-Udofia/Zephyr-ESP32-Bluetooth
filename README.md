@@ -1,0 +1,1 @@
+Bluetooth Low Energy Firmware for the ESP32 Devkit Wroom using Zephyr-RTOS 
